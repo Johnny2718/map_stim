@@ -1,0 +1,2 @@
+arbotix_ros/arbotix:arbotix_ros/arbotix_controllers:arbotix_ros/arbotix_firmware:arbotix_ros/arbotix_msgs:arbotix_ros/arbotix_python:arbotix_ros/arbotix_sensors:learning_topic:tf01_static:tf02_dynamic:tf03_tfs:tf04_test:urdf01_rviz
+-DCATKIN_DEVEL_PREFIX=/home/johnny/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/johnny/catkin_ws/install -G Unix Makefiles

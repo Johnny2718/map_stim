@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/johnny/Rune/RM2022-Algorithm/devel/lib/python2.7/dist-packages",
+        "/home/johnny/RM2022-Algorithm/devel/lib/python2.7/dist-packages",
+        "/home/johnny/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

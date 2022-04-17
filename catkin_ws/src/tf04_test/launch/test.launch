@@ -1,0 +1,6 @@
+<launch>
+  <!-- start turtle node-->
+  <node pkg="turtlesim" type="turtlesim_node" name="turtle1" output="screen" />
+  <!-- create new turtle node-->
+  <node pkg="tf04_test" type="test01_new_turtle" name="turtle2" output="screen" />
+</launch>
